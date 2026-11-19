@@ -7,6 +7,6 @@ D&D Mapp is an open-source web app for dungeon masters and players of Dungeons &
 
 ## Get involved
 
-- [`dnd-mapp/dnd-mapp`](https://github.com/dnd-mapp/dnd-mapp) holds the web app and the features planned for it.
-- [Support](https://github.com/dnd-mapp/dnd-mapp/blob/main/SUPPORT.md) lists where questions, ideas, and bug reports go.
-- [Contributing](https://github.com/dnd-mapp/dnd-mapp/blob/main/CONTRIBUTING.md) explains how to contribute code and docs.
+- [`critsource/critsource`](https://github.com/critsource/critsource) holds the web app and the features planned for it.
+- [Support](https://github.com/critsource/critsource/blob/main/SUPPORT.md) lists where questions, ideas, and bug reports go.
+- [Contributing](https://github.com/critsource/critsource/blob/main/CONTRIBUTING.md) explains how to contribute code and docs.
