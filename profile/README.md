@@ -1,9 +1,9 @@
-![D&D Mapp: Roll for initiative!](dnd-mapp-banner.jpg)
+![Critsource: Roll for initiative!](critsource-banner.png)
 
-D&D Mapp is an open-source web app for dungeon masters and players of Dungeons & Dragons 5th edition. It covers the 2014 rules from the System Reference Document 5.1, and users add their own homebrew content on top.
+Critsource is an open-source web app for dungeon masters and players of Dungeons & Dragons 5th edition. It covers the 2014 rules from the System Reference Document 5.1, and users add their own homebrew content on top.
 
 > [!IMPORTANT]
-> D&D Mapp is in early development, and none of its features exist yet.
+> Critsource is in early development, and none of its features exist yet.
 
 ## Get involved
 
